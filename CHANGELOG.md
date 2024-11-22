@@ -1,3 +1,37 @@
+# Change Log
+
+All notable changes to this project will be documented in this file.
+See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
+
+## [0.1.4-alpha.2](https://github.com/oguzserdar/eliza/compare/v0.0.10...v0.1.4-alpha.2) (2024-11-22)
+
+
+### Bug Fixes
+
+* added missing packages to tsup configs' externals ([f7de29c](https://github.com/oguzserdar/eliza/commit/f7de29cf2ed452e08fa68ebd44360f5bc5a3bf20))
+* Build error for packages requiring @ai16z/eliza ([583aad9](https://github.com/oguzserdar/eliza/commit/583aad9bf99ac23bfdf9596bab5450d4e426c98c))
+* ca for btc was fake ([4c28418](https://github.com/oguzserdar/eliza/commit/4c28418da13e65a32fca21532515ec5dc84b46e5))
+* ci ([93ffdf4](https://github.com/oguzserdar/eliza/commit/93ffdf4398971182deffc7265c4fe954f09a2e6d))
+* docs features darkmode color ([fcd2e31](https://github.com/oguzserdar/eliza/commit/fcd2e31ab50a139256d3f001043cea52c30dc8b1))
+* error if openai baseURL is not provided ([776de16](https://github.com/oguzserdar/eliza/commit/776de169d39a158b76aa6dc0a6246260ec438810))
+* fix loadCharacters resolver ([6e9ade9](https://github.com/oguzserdar/eliza/commit/6e9ade9a448a3658bb3e6cf1ea6bffdec84a4b9a))
+* fixed spacing ([92cf05a](https://github.com/oguzserdar/eliza/commit/92cf05a0570f367cc5b6ab818c8b33ce2dc3cefc))
+* ignored modelEndpointOverride in generation ([961816a](https://github.com/oguzserdar/eliza/commit/961816a2505fb667ee674426e44e4ea9d2fa818c))
+* issue with npm ([53e2678](https://github.com/oguzserdar/eliza/commit/53e2678c162433e9276306c2912006afa9b66670))
+* X dry run ([a744b9a](https://github.com/oguzserdar/eliza/commit/a744b9ad38f3e3c581fada33294f2da0684d9f68))
+
+
+### Features
+
+* Add GROQ API key environment variable ([96236b2](https://github.com/oguzserdar/eliza/commit/96236b2b73dc7065d1ccca6d77305ed20f2c41e5))
+* create-eliza-app ([865a98e](https://github.com/oguzserdar/eliza/commit/865a98e76a728b65b95d925cc2de79453904f7ae))
+* init github client ([7d57a39](https://github.com/oguzserdar/eliza/commit/7d57a3993fd3f36d9ee876cf36094804d642cfda))
+* starknet token transfer ([24d7f5e](https://github.com/oguzserdar/eliza/commit/24d7f5e8ad2390bfcbd911ac94e67b728c5388f3))
+
+
+
+
+
 # Changelog
 
 ## [v0.1.4-alpha.1](https://github.com/ai16z/eliza/tree/v0.1.4-alpha.1) (2024-11-22)
